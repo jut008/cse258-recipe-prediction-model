@@ -1,0 +1,22 @@
+# Data (too big for GitHub)
+data/
+*.json.gz
+*.csv.gz
+*.parquet
+*.pkl
+
+# Notebook junk
+.ipynb_checkpoints/
+
+# Exports (generate fresh before submitting)
+workbook.html
+
+# Python / OS
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

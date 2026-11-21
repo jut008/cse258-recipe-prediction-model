@@ -1,5 +1,5 @@
 # Data (too big for GitHub)
-data/
+dataset/
 *.json.gz
 *.csv.gz
 *.parquet

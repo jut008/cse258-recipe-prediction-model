@@ -1,9 +1,5 @@
 # Data (too big for GitHub)
-data/
-*.json.gz
-*.csv.gz
-*.parquet
-*.pkl
+dataset/
 
 # Notebook junk
 .ipynb_checkpoints/

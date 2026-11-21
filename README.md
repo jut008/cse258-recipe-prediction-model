@@ -5,7 +5,7 @@ Group project for CSE 258 (Fall 2026).
 ## Files
 - `workbook.ipynb`: the final notebook we submit (exported to `workbook.html`)
 - `scratch/`: everyone's personal notebooks for experimenting
-- `data/`: local data only, not committed (see below)
+- `dataset/`: local data only, not committed (see below)
 
 ## How we work
 Notebooks don't merge well in git, so:

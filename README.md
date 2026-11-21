@@ -15,8 +15,8 @@ Notebooks don't merge well in git, so:
 4. Always `git pull` before you start and `git push` when you're done.
 
 ## Data
-Datasets are too big for GitHub. Download them into `data/` on your own machine
-(or use the shared Drive folder in Colab). `data/` is in `.gitignore`.
+Datasets are too big for GitHub. Download them into `dataset/` on your own machine
+(or use the shared Drive folder in Colab). `dataset/` is in `.gitignore`.
 
 Dataset: [name + link]
 
